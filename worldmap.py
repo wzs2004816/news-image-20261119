@@ -1,0 +1,5 @@
+# Land mask rasterised from public-domain countries.geo.json.
+# 120x60 packed bits (row-major, 1 = land), zlib+base64.
+WORLD_W = 120
+WORLD_H = 60
+WORLDMAP = "eNqdkrFq21AUhn9JxfJgYo8uuJbJCzhbSwmWoQ/QF2hox44hGTIEKkGHrt7qLW+QJwiNthQ6xGM3C/oA9hBaNXF18p9zr00NJYVckLiffXT+//z3Av9ZQd2u/sL2D1lhBnSNng6vRP8dRLli90uREcNAbjqIiuhblZZo4bmI5J/4Ok9zZNe/uJOIz0WvgYWC1LFItddCNDd8g49SvQR2r5XKMSB1SpUzxbwAMrnM8dZql1RO6IkvQ6zxzylxZkhPB9UJcWJYAofHdyI/scHPxNuBzidsP4J24gaxsH02Jf62MFRNak7gMqFawL2TBd6NFbNkXhgeNRVH7b6Fgz7AqS92kqZhZLhsxD7nZ9aqEfigOa+pPPFY4hVVmnsbDGi8UTpk6gGNh++dUlbz4xwhDh2KIYoX7luPfiVa/JUGJu6AFaec/LthrNjhz27gmMlm9JCuXDHn/qAt638i3e17BUWmohF39p3u2kIv9On4ZdjaoAXQ26CF192+o108fgXbaGrtYH3AO7SzEL2kNN8ZvtYz8vcs0ZrEYxmmLOmlHgtmLrImHtTgIQv3vr0G+g=="
